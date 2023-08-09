@@ -1,0 +1,12 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fundo-amarelo {
+    background-color: #f0be2d;
+    height: 800px;
+}
+
+.logo {
+    width: 8em;
+}
